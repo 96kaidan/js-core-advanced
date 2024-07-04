@@ -1,3 +1,7 @@
+/* Напишите функцию, которая принимает
+массив с числами и находит сумму первой
+половины элементов этого массива. */
+
 function getSumOfHalf(array) {
     let sum = 0;
     let halfLength = Math.floor(array.length / 2);
